@@ -1,4 +1,4 @@
-[![ci](https://github.com/Sahero/bootcicd2/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Sahero/bootcicd2/actions/workflows/ci.yml)
+[![ci](https://github.com/Sahero/bootcicd2/actions/workflows/ci.yml/badge.svg?branch=addtests)](https://github.com/Sahero/bootcicd2/actions/workflows/ci.yml)
 
 # learn-cicd-typescript-starter (Notely)
 
